@@ -1,0 +1,26 @@
+# Android Studio
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+**/build/
+
+# Configurações locais do Android SDK
+local.properties
+
+# Arquivos gerados pelo Android NDK
+.externalNativeBuild/
+.cxx/
+
+# Arquivos gerados durante a execução
+captures/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos locais de configuração e credenciais
+keystore.properties
+*.jks
+*.keystore
